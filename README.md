@@ -12,3 +12,17 @@ The game incorporates collision detection, ensuring that the hero cannot pass th
 The Perilous Path also features a scoring system, where players can achieve high scores based on their performance. The game keeps track of the top scores, providing a competitive element for players to strive for.
 
 Overall, The Perilous Path offers an immersive and thrilling gaming experience. With its randomly generated landscapes, challenging obstacles, and responsive controls, players will find themselves engaged in an addictive journey to conquer the perilous path.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Game project for the COSC316-2-Design and Analysis of Algorithms Course. 
+
+Collaborators (Name - Email):
+
+Khalil Farhat - khalilrfarhat297@gmail.com
+
+Omar Fatfat - fatfatoi@students.rhu.edu.lb
+
+Shahed Kishly - kishlyst@students.rhu.edu.lb
+
+Joya Jaroudi - Joya47067@gmail.com
+
