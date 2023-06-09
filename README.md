@@ -25,6 +25,7 @@ Omar Fatfat - fatfatoi@students.rhu.edu.lb
 Shahed Kishly - kishlyst@students.rhu.edu.lb
 
 Joya Jaroudi - Joya47067@gmail.com
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/KhalilFarhat/The-Perilous-Path/assets/100374222/eee0ca7d-dbd1-4ffb-8c49-2f9b52027a6d)
 
